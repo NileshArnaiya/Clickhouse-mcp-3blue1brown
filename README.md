@@ -3,7 +3,7 @@
 ## What This App Does
 
 This application generates mathematical animation videos using:
-1. **Data Source**: 2,407 Manim code examples from 3Blue1Brown dataset (CSV file)
+1. **Data Source**: 2,407 Manim code examples from 3Blue1Brown dataset (CSV file) - Uses the https://huggingface.co/datasets/dalle2/3blue1brown-manim/
 2. **Code Execution**: E2B sandboxed Python interpreter runs the Manim code
 3. **Video Output**: Returns MP4 videos to users via web interface
 
